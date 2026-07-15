@@ -1,6 +1,7 @@
 fp-info-cache
-Generated
+Generated*
 t1-backups
 t1.xml
 *-bak
 .cache
+run_make.sh
