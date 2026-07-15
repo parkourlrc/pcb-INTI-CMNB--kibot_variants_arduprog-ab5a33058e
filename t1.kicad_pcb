@@ -545,7 +545,7 @@
 			(uuid "1b023dd4-5185-4576-b544-68a05b9c360b")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/CP_Elec_8x10.step"
+		(model "${KIPRJMOD}/3D/CP_Elec_8x10.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -753,7 +753,7 @@
 			(uuid "84d4e166-b429-409a-ab37-c6a10fd82ff5")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/C_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3D/C_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -974,7 +974,7 @@
 			(uuid "f7447e92-4293-41c4-be3f-69b30aad1f17")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/C_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3D/C_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1195,7 +1195,7 @@
 			(uuid "eac8d865-0226-4958-b547-6b5592f39713")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/C_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3D/C_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1403,7 +1403,7 @@
 			(uuid "0e249018-17e7-42b3-ae5d-5ebf3ae299ae")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/C_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3D/C_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1611,7 +1611,7 @@
 			(uuid "dde8619c-5a8c-40eb-9845-65e6a654222d")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/C_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3D/C_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1819,7 +1819,7 @@
 			(uuid "269f19c3-6824-45a8-be29-fa58d70cbb42")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/C_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3D/C_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2075,7 +2075,7 @@
 			(uuid "f19c9655-8ddb-411a-96dd-bd986870c3c6")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/D_1206_3216Metric.step"
+		(model "${KIPRJMOD}/3D/D_1206_3216Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2331,7 +2331,7 @@
 			(uuid "03f57fb4-32a3-4bc6-85b9-fd8ece4a9592")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/LED_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3D/LED_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2587,7 +2587,7 @@
 			(uuid "5a222fb6-5159-4931-9015-19df65643140")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/LED_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3D/LED_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2808,7 +2808,7 @@
 			(uuid "3e0392c0-affc-4114-9de5-1f1cfe79418a")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/R_1812_4532Metric.step"
+		(model "${KIPRJMOD}/3D/R_1812_4532Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3055,7 +3055,7 @@
 			(uuid "9b6bb172-1ac4-440a-ac75-c1917d9d59c7")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/R_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3D/R_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4336,7 +4336,7 @@
 			(uuid "ce72ea62-9343-4a4f-81bf-8ac601f5d005")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/694106106102_(rev1).step"
+		(model "${KIPRJMOD}/3D/694106106102_(rev1).wrl"
 			(offset
 				(xyz -2.2 0 5.5)
 			)
@@ -4631,7 +4631,7 @@
 			(uuid "f66398f1-1ae7-4d4d-939f-958c174c6bce")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/PinHeader_1x05_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/3D/PinHeader_1x05_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4974,7 +4974,7 @@
 			(uuid "b5071759-a4d7-4769-be02-251f23cd4454")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/PinHeader_2x02_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/3D/PinHeader_2x02_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5339,7 +5339,7 @@
 			(uuid "e67b9f8c-019b-4145-98a4-96545f6bb128")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/PinHeader_2x03_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/3D/PinHeader_2x03_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5645,7 +5645,7 @@
 			(uuid "88668202-3f0b-4d07-84d4-dcd790f57272")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/PinHeader_1x06_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/3D/PinHeader_1x06_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6127,7 +6127,7 @@
 			(uuid "29195ea4-8218-44a1-b4bf-466bee0082e4")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/R_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3D/R_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6348,7 +6348,7 @@
 			(uuid "e1535036-5d36-405f-bb86-3819621c4f23")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/R_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3D/R_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6569,7 +6569,7 @@
 			(uuid "f4eb0267-179f-46c9-b516-9bfb06bac1ba")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/R_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3D/R_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6777,7 +6777,7 @@
 			(uuid "0e1ed1c5-7428-4dc7-b76e-49b2d5f8177d")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/R_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3D/R_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6985,7 +6985,7 @@
 			(uuid "19c56563-5fe3-442a-885b-418dbc2421eb")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/R_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3D/R_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7193,7 +7193,7 @@
 			(uuid "b7199d9b-bebb-4100-9ad3-c2bd31e21d65")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/R_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3D/R_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7401,7 +7401,7 @@
 			(uuid "0755aee5-bc01-4cb5-b830-583289df50a3")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/R_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3D/R_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7713,7 +7713,7 @@
 			(uuid "03caada9-9e22-4e2d-9035-b15433dfbb17")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/R_0603_1608Metric.step"
+		(model "${KIPRJMOD}/3D/R_0603_1608Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8064,7 +8064,7 @@
 			(uuid "b1169a2d-8998-4b50-a48d-c520bcc1b8e1")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/ABM3.step"
+		(model "${KIPRJMOD}/3D/ABM3.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8449,7 +8449,7 @@
 			(uuid "8fcec304-c6b1-4655-8326-beacd0476953")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/USB_B_OST_USB-B1HSxx_Horizontal.step"
+		(model "${KIPRJMOD}/3D/USB_B_OST_USB-B1HSxx_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9010,7 +9010,7 @@
 			(uuid "5cbb5968-dbb5-4b84-864a-ead1cacf75b9")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/TQFP-32_7x7mm_P0.8mm.step"
+		(model "${KIPRJMOD}/3D/TQFP-32_7x7mm_P0.8mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9322,7 +9322,7 @@
 			(uuid "4780a290-d25c-4459-9579-eba3f7678762")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/R_0603_1608Metric.step"
+		(model "${KIPRJMOD}/3D/R_0603_1608Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9530,7 +9530,7 @@
 			(uuid "bb59b92a-e4d0-4b9e-82cd-26304f5c15b8")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D/C_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3D/C_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
