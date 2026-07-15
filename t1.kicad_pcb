@@ -10407,6 +10407,7 @@
 				(pins)
 			)
 		)
+		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
 			(pts
