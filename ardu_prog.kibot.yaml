@@ -230,10 +230,10 @@ outputs:
     options:
       render_options:
         transparent_background: true
-        samples: 5
+        samples: 1
       light:
         type: SUN
-        energy: 9
+        energy: 4
       point_of_view:
         rotate_x: 30
         rotate_z: 30
