@@ -345,7 +345,8 @@
 	)
 	(bitmap
 		(name "")
-		(pos 132.989 27.0022)
+		(pos 132.989 27.002)
+		(option page1only)
 		(scale 0.705)
 		(data "iVBORw0KGgoAAAANSUhEUgAAAXIAAADICAYAAAD1AmquAAAAx3pUWHRSYXcgcHJvZmlsZSB0eXBl"
 			"IGV4aWYAAHjabVDBDcMgDPwzRUfAPgNmHNIkUjfo+DVgpKTtSZwPjM/gcLxfZ3h0MEmQVDTXnKNB"
