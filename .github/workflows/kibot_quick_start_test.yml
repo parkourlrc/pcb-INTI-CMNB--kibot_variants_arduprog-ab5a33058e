@@ -1,5 +1,5 @@
 # Test designed to run the --quick-start using a fresh docker image:
-# ghcr.io/inti-cmnb/kicad_auto_test:ki9
+# ghcr.io/inti-cmnb/kicad_auto_test:ki10
 # This name is available before the deploy which creates:
 # ghcr.io/inti-cmnb/kicad9_auto_test:latest
 name: "Variants demo --quick-start pre-release"
@@ -11,7 +11,7 @@ on:
 jobs:
   quick:
     runs-on: ubuntu-latest
-    container: ghcr.io/inti-cmnb/kicad_auto_test:ki9
+    container: ghcr.io/inti-cmnb/kicad_auto_test:ki10
 
     steps:
     - uses: actions/checkout@v4
