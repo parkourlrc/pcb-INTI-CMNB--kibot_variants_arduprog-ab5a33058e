@@ -27,14 +27,14 @@ jobs:
     container: ghcr.io/inti-cmnb/kicad10_auto_full:latest
 
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
 
     - name: Run ERC
       run: |
         make erc
 
     - name: Retrieve results
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: ERC_Output
         path: Generated
@@ -45,14 +45,14 @@ jobs:
     needs: ERC
 
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
 
     - name: Run DRC
       run: |
         make drc
 
     - name: Retrieve results
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: DRC_Output
         path: Generated
@@ -64,14 +64,14 @@ jobs:
     needs: [ERC, DRC]
 
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
 
     - name: Generate default variant
       run: |
         make var_default
 
     - name: Retrieve results
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: Default_Output
         path: Generated
@@ -83,14 +83,14 @@ jobs:
     needs: [ERC, DRC]
 
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
 
     - name: Generate USB variant
       run: |
         make var_usb
 
     - name: Retrieve results
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: USB_Output
         path: Generated
@@ -102,14 +102,14 @@ jobs:
     needs: [ERC, DRC]
 
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
 
     - name: Generate XTAL variant
       run: |
         make var_xtal
 
     - name: Retrieve results
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: XTAL_Output
         path: Generated
