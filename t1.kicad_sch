@@ -8118,7 +8118,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/MLC.pdf"
 			(at 100.33 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -8287,7 +8287,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.foxonline.com/pdfs/C4ST.pdf"
 			(at 120.65 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -8579,7 +8579,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=292304&DocType=Customer+Drawing&DocLang=English"
 			(at 76.2 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -8702,7 +8702,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/MLC.pdf"
 			(at 91.44 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -8871,7 +8871,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0110S0100BLM21P.pdf"
 			(at 96.52 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -9853,7 +9853,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://dammedia.osram.info/media/resource/hires/osram-dam-2493936/LG%20R971.pdf"
 			(at 248.92 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -10116,7 +10116,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.de/katalog/datasheet/6941xx106102.pdf"
 			(at 55.88 49.784 0)
 			(hide yes)
 			(show_name no)
@@ -11261,7 +11261,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.harwin.com/pdfs/M20-998.pdf"
 			(at 213.36 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -11539,7 +11539,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.harwin.com/pdfs/M20-998.pdf"
 			(at 208.28 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -11907,7 +11907,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://dammedia.osram.info/media/resource/hires/osram-dam-2493936/LG%20R971.pdf"
 			(at 236.22 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -12812,7 +12812,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/28388/153crv.pdf"
 			(at 82.55 53.34 0)
 			(hide yes)
 			(show_name no)
