@@ -7,6 +7,11 @@ name: "Variants demo --quick-start pre-release"
 on:
   workflow_dispatch
 
+permissions:
+  contents: read       # Required to check out the code
+  pages: write         # Required to request a Pages deployment
+  id-token: write      # Required for OpenID Connect (OIDC) to verify the deployment
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   quick:
@@ -38,6 +43,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v6
+      with:
+        persist-credentials: false
 
     - name: Retrieve results
       uses: actions/download-artifact@v8
