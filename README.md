@@ -4,6 +4,9 @@
 
 This is an example of how to use variants with [KiBot](https://github.com/INTI-CMNB/KiBot).
 
+> [!TIP]
+> They can be migrated to native KiCad 10 variants, here is an [example](https://inti-cmnb.github.io/kibot_variants_arduprog_native/)
+
 ## Index
 
 * [Definition](#Definition)
