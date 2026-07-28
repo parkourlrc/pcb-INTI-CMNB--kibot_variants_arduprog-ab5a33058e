@@ -93,6 +93,8 @@
 			(outputdirectory "")
 		)
 	)
+	(property "date" "Local Copy")
+	(property "git_hash" "Dirty")
 	(footprint "Capacitor_SMD:CP_Elec_8x10"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005f594f8f")
@@ -121,7 +123,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/28388/153crv.pdf"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2116,7 +2118,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://dammedia.osram.info/media/resource/hires/osram-dam-2493936/LG%20R971.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2372,7 +2374,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://dammedia.osram.info/media/resource/hires/osram-dam-2493936/LG%20R971.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2849,7 +2851,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0110S0100BLM21P.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3964,7 +3966,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.de/katalog/datasheet/6941xx106102.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4672,7 +4674,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.harwin.com/pdfs/M20-998.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5015,7 +5017,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.harwin.com/pdfs/M20-998.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7442,7 +7444,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/MLC.pdf"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7754,7 +7756,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.foxonline.com/pdfs/C4ST.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8105,7 +8107,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=292304&DocType=Customer+Drawing&DocLang=English"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9051,7 +9053,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/MLC.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
